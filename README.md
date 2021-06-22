@@ -5,6 +5,8 @@
 - Node.js
 - Express
 - MongoDB
+- HTML
+- JavaScript
 
 ## Summary of Project
 
